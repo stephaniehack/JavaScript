@@ -23,3 +23,12 @@ In this example JavaScript changes the value of the src (source) attribute of 
 
 </body>
 </html>
+
+JavaScript Can Change HTML Styles (CSS)
+-Changing the style of an HTML element, is a variant of changing an HTML attribute:
+
+JavaScript Can Hide HTML Elements
+-Hiding HTML elements can be done by changing the display style:
+
+JavaScript Can Show HTML Elements
+Showing hidden HTML elements can also be done by changing the display style:
